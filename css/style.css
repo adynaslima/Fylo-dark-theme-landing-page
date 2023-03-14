@@ -1,0 +1,38 @@
+body {
+    color: hsl(0, 0%, 100%);
+}
+
+header {
+    background-color: hsl(219, 30%, 18%);
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    padding: 20px;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-cabecalho {
+    width: 20%;
+}
+
+.menu {
+    display: flex;
+    column-gap: 10px;
+}
+
+.foto-fundo {
+    width: 80%;
+    background-color: hsl(219, 30%, 18%);
+    padding: 10% 10% 0;
+}
+
+.sessao-1 {
+    background-image: url("/images/bg-curvy-mobile.svg");
+
+}
