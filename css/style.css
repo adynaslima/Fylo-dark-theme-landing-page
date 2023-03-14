@@ -23,7 +23,7 @@ nav {
 
 .menu {
     display: flex;
-    column-gap: 10px;
+    column-gap: 20px;
 }
 
 .foto-fundo {
@@ -32,7 +32,125 @@ nav {
     padding: 10% 10% 0;
 }
 
-.sessao-1 {
-    background-image: url("/images/bg-curvy-mobile.svg");
+.secao1 {
+    background-color: hsl(219, 30%, 18%);
+}
 
+.h1-secao1 {
+    background-image: url("../images/bg-curvy-mobile.svg");
+    padding: 30px 30px 0;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    line-height: 1.5em;
+}
+
+.parag-botao {
+    background-color: hsl(218, 28%, 13%);
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.p-secao1 {
+    background-color: hsl(218, 28%, 13%);
+    padding: 20px 40px 30px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 1.4em;
+}
+
+.botao-secao1 {
+    color:hsl(0, 0%, 100%);
+    background-color: hsl(176, 68%, 64%);
+    border-radius: 25px;
+    border: none;
+    height: 45px;
+    padding: 0 80px;
+}
+
+.secao2 {
+    background-color: hsl(218, 28%, 13%);
+    text-align: center;
+}
+
+.foto-secao2 {
+    height: 60px;
+    padding: 100px 0 30px;
+}
+
+.titulo-secao2 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    padding-bottom: 15px;
+}
+
+.parag-secao2 {
+    padding: 0 25px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 1.4em;
+}
+
+.secao3 {
+    background-color: hsl(218, 28%, 13%);
+}
+
+.divfoto-secao3 {
+    text-align: center;
+}
+
+.foto-secao3 {
+    width: 80%;
+    padding: 180px 0 40px;
+}
+
+.titulo-secao3 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.parag-secao3 {
+    padding: 0 25px 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 1.4em;    
+}
+
+.parag-img-secao3 {
+    display: flex;
+    column-gap: 5px;
+    padding: 25px 0 150px 25px;
+    color: hsl(176, 68%, 64%);
+}
+
+.secao4 {
+    background-color: hsl(218, 28%, 13%);
+    padding: 0 40px;
+}
+
+.foto-secao4 {
+    width: 20px;
+}
+
+.caixa-secao4 {
+    padding: 25px 15px 20px 15px;
+    border: 1px solid hsl(219, 30%, 18%);
+    border-radius: 5px;
+    background-color: hsl(219, 30%, 18%);
+}
+
+.parag-secao4 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 1.5em;
+    padding-bottom: 15px;
+}
+
+.fotoperfil-secao4 {
+    width: 20px;
+    border-radius: 50%;
 }
