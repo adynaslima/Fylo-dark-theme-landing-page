@@ -323,23 +323,34 @@ footer {
 
     .secao2 {
         display: grid;
+        padding-bottom: 30px;
     }
 
-    
+    .item-secao2:nth-child(1) {
+        grid-column: 1/2;
+        grid-row: 1/2;
+    }
+
+    .item-secao2:nth-child(2) {
+        grid-column: 2/3;
+        grid-row: 1/2;
+    }
 
     .item-secao2 {
-        width: 33%;
+        width: 80%;
+        margin: 0 10%;
     }
 
     .foto-secao2 {
-        height: 100px;
+        height: 120px;
     }
 
     .titulo-secao2 {
-        font-size: 25px;
+        font-size: 30px;
     }
 
     .parag-secao2 {
-        
+        font-size: 22px;
+        padding: 0;
     }
 }
