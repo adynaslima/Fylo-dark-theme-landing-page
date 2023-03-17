@@ -320,4 +320,26 @@ footer {
         font-size: 20px;
         font-weight: 700;
     }
+
+    .secao2 {
+        display: grid;
+    }
+
+    
+
+    .item-secao2 {
+        width: 33%;
+    }
+
+    .foto-secao2 {
+        height: 100px;
+    }
+
+    .titulo-secao2 {
+        font-size: 25px;
+    }
+
+    .parag-secao2 {
+        
+    }
 }
