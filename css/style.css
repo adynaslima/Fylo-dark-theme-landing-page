@@ -383,5 +383,41 @@ footer {
         width: 17%;
     }
 
-    
+    .background-partefinal {
+        background-color: hsl(216, 53%, 9%);
+    }
+
+    .secao5 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .caixa-secao5 {
+        width: 600px;
+        height: 150px;
+    }
+
+    .titulo-secao5 {
+        font-size: 23px;
+    }
+
+    .parag-secao5 {
+        width: 85%;
+        padding: 0 7.5% 3%;
+    }
+
+    .container5 {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        column-gap: 25px;
+    }
+
+    .formulario {
+        width: 60%;
+    }
+
+    .botao-secao5 {
+        width: 30%;
+    }
 }
