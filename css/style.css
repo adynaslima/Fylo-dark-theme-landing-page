@@ -296,6 +296,10 @@ footer {
         background: none;
     }    
 
+    .background-predominante {
+        background-color: hsl(218, 28%, 13%);
+    }
+
     .subsecao {
         background-image: url("../images/bg-curvy-desktop.svg");
         height: 440px;
@@ -336,5 +340,17 @@ footer {
     .parag-secao2 {
         font-size: 12px;
         padding: 0;
+    }
+
+    .foto-secao3 {
+        width: 35%;
+    }
+
+    .titulo-secao3 {
+        font-size: 30px;
+    }
+
+    .parag-secao3 {
+        text-align: left;   
     }
 }
