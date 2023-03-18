@@ -420,4 +420,20 @@ footer {
     .botao-secao5 {
         width: 30%;
     }
+
+    .secao6 {
+        padding: 50px;
+    }
+
+    .logo-secao6 {
+        width: 10%;
+    }
+
+    .icone-secao6 {
+        height: 15px;
+    }
+
+    .container2 {
+        width: 40%;
+    }
 }
