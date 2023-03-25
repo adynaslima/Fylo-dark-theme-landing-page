@@ -25,24 +25,14 @@ Os usuários devem ser capazes de:
 
 ### Captura de tela
 
-![](./prints/capturadesktop1.png)
-![](./prints/capturadesktop2.png)
-![](./prints/capturadesktop3.png)
-![](./prints/capturadesktop4.png)
-![](./prints/capturamobile1.png)
-![](./prints/capturamobile2.png)
-![](./prints/capturamobile3.png)
-![](./prints/capturamobile4.png)
-![](./prints/capturamobile5.png)
-![](./prints/capturamobile6.png)
-![](./prints/capturamobile7.png)
-![](./prints/capturamobile8.png)
+![](./prints/mobile.png)
+![](./prints/desktop.png)
 
 
 ### Links
 
-- URL da solução: [https://github.com/adynaslima/Fylo-dark-theme-landing-page.git]
-- URL do site ao vivo: [https://adynaslima.github.io/Fylo-dark-theme-landing-page/] 
+- URL da solução: [GitHub](https://github.com/adynaslima/Fylo-dark-theme-landing-page.git)
+- URL do site ao vivo: [Site](https://adynaslima.github.io/Fylo-dark-theme-landing-page/)
 
 ## Meu processo
 
@@ -60,11 +50,12 @@ Em construção
 
 ### Recursos úteis
 
-- [Exemplo de recurso](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Este é um artigo incrível que me ajudou a aplicar Flexbox. Recomendo a todos que ainda estão aprendendo esse conceito.
+- [Artigo](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Este é um artigo incrível que me ajudou a aplicar Flexbox. Recomendo a todos que ainda estão aprendendo esse conceito.
 
 ## Autor
 
-- Website - [Adyna Lima](https://github.com/adynaslima)
+- GitHub - [Adyna Lima](https://github.com/adynaslima)
+- LinkedIn - [Adyna Lima](www.linkedin.com/in/adynalima)
 
 ## Licença
 
