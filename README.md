@@ -5,11 +5,7 @@ Esta é uma solução para o [desafio da página de destino do tema escuro Fylo 
 ## Tabela de conteúdos
 
 - [Visãogeral](#visão-geral)
-<<<<<<< HEAD
-  - [Odesafio](#o-desafio)
-=======
   - [O desafio](#o-desafio)
->>>>>>> 57e8f670241f23e42ddea6a84e5ebf0fc27bdac6
   - [Captura de tela](#captura-de-tela)
   - [Links](#links)
 - [Meu processo](#meu-processo)
@@ -27,25 +23,15 @@ Os usuários devem ser capazes de:
 
 - Ver o layout ideal para o site, dependendo do tamanho da tela do dispositivo
 
-### Captura de tela
+### Captura de tela 
 
-<<<<<<< HEAD
 ![](./prints/desktop.png)
 ![](./prints/mobile.png)
-
-### Links
-
-- URL da solução: [https://github.com/adynaslima/Fylo-dark-theme-landing-page.git]
-- URL do site ao vivo: [https://adynaslima.github.io/Fylo-dark-theme-landing-page/] 
-=======
-![](./prints/mobile.png)
-![](./prints/desktop.png)
 
 ### Links
 
 - URL da solução: [GitHub](https://github.com/adynaslima/Fylo-dark-theme-landing-page.git)
 - URL do site ao vivo: [Site](https://fylo-dark-theme-landing-page-mu.vercel.app/)
->>>>>>> 57e8f670241f23e42ddea6a84e5ebf0fc27bdac6
 
 ## Meu processo
 
@@ -59,8 +45,7 @@ Os usuários devem ser capazes de:
 
 ### Status do projeto
 
-<<<<<<< HEAD
-Em construção
+Em construção...
 
 ### Recursos úteis
 
@@ -69,23 +54,8 @@ Em construção
 ## Autor
 
 - Website - [Adyna Lima](https://github.com/adynaslima)
+- LinkedIn - [Adyna Lima](https://www.linkedin.com/in/adynalima/) 
 
 ## Licença
 
 Licença MIT
-=======
-Em construção...
-
-### Recursos úteis
-
-- [Artigo](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Este é um artigo incrível que me ajudou a aplicar Flexbox. Recomendo a todos que ainda estão aprendendo esse conceito.
-
-## Autor
-
-- GitHub - [Adyna Lima](https://github.com/adynaslima)
-- LinkedIn - [Adyna Lima](www.linkedin.com/in/adynalima)
-
-## Licença
-
-Licença MIT
->>>>>>> 57e8f670241f23e42ddea6a84e5ebf0fc27bdac6
