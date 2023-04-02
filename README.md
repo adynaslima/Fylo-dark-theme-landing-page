@@ -5,7 +5,7 @@ Esta é uma solução para o [desafio da página de destino do tema escuro Fylo 
 ## Tabela de conteúdos
 
 - [Visãogeral](#visão-geral)
-  - [Odesafio](#o-desafio)
+  - [O desafio](#o-desafio)
   - [Captura de tela](#captura-de-tela)
   - [Links](#links)
 - [Meu processo](#meu-processo)
@@ -27,7 +27,6 @@ Os usuários devem ser capazes de:
 
 ![](./prints/mobile.png)
 ![](./prints/desktop.png)
-
 
 ### Links
 
